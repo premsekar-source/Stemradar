@@ -1,0 +1,8 @@
+{
+  "name": "STEM Radar",
+  "description": "A global STEM discovery hub tracking breakthroughs across space, aerospace, robotics, AI, electronics, scientific instruments, and research.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
